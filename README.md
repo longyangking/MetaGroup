@@ -1,5 +1,5 @@
 # MetaGroup
-> Home-made calculation of Group Theory
+> Home-made computational Group Theory
 
 ## Features
 + Basic definitions and operations of Group
